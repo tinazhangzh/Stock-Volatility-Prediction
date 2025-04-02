@@ -1,8 +1,3 @@
----
-title: "565 Project"
-output: html_notebook
----
-
 ```{r}
 # Load necessary libraries
 library(readr)
